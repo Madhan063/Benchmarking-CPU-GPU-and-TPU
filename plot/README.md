@@ -13,7 +13,7 @@ This Python plotting library requires the following packages to be installed:
 To use the library, follow these steps:
 
 1. Process the output log files:
-   - Place the output log files from different devices into their respective folders in the final data folder.
+   - Place the output log files from different devices into their respective folders in the `final_data` folder.
    - Run the `processlogs.py` file in the plotting library.
    - To run this file, make sure you are in the plot folder and then run the following command:
      ```
