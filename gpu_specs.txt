@@ -1,0 +1,22 @@
+GPU Information:
+
+GPU 0: NVIDIA A100-PCIE-40GB
+  Total Memory: 40960 MiB MiB
+  Used Memory: 0 MiB MiB
+  Free Memory: 40369 MiB MiB
+  GPU Utilization: 0 %%
+  GPU Temperature: 25°C
+
+GPU 1: NVIDIA A100-PCIE-40GB
+  Total Memory: 40960 MiB MiB
+  Used Memory: 0 MiB MiB
+  Free Memory: 40369 MiB MiB
+  GPU Utilization: 0 %%
+  GPU Temperature: 24°C
+
+GPU 2: NVIDIA A100-PCIE-40GB
+  Total Memory: 40960 MiB MiB
+  Used Memory: 0 MiB MiB
+  Free Memory: 40369 MiB MiB
+  GPU Utilization: 0 %%
+  GPU Temperature: 25°C

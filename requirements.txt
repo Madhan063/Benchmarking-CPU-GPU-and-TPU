@@ -1,0 +1,15 @@
+tensorflow==2.10.0
+keras
+h5py
+numpy
+nvsmi
+psutil
+pandas
+torch
+torchvision
+tqdm
+timm
+thop
+matplotlib
+pycuda
+py-cpuinfo
