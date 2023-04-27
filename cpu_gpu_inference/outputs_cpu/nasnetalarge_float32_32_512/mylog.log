@@ -1,0 +1,18 @@
+[2023-04-21 20:44:55] [nasnetalarge] [METRIC] Device: cpu
+[2023-04-21 20:44:55] [nasnetalarge] [METRIC] Device Type: cpu
+[2023-04-21 20:44:55] [nasnetalarge] [INFO] Trying to load pre-trained nasnetalarge from the timm library
+[2023-04-21 20:44:59] [nasnetalarge] [INFO] Loaded nasnetalarge model successfully
+[2023-04-21 20:44:59] [nasnetalarge] [INFO] Starting inference...
+[2023-04-21 20:44:59] [nasnetalarge] [INFO] Running Inference on randonly generated samples
+[2023-04-21 22:21:28] [nasnetalarge] [METRIC] Model Name: nasnetalarge
+[2023-04-21 22:21:28] [nasnetalarge] [METRIC] Batch Size: 32
+[2023-04-21 22:21:28] [nasnetalarge] [METRIC] Precision: torch.float32
+[2023-04-21 22:21:28] [nasnetalarge] [METRIC] Model parameters: 88753150
+[2023-04-21 22:21:28] [nasnetalarge] [METRIC] Average Inference time: 11.2875 s
+[2023-04-21 22:21:28] [nasnetalarge] [METRIC] Average Device to Host time: 0.0000 s
+[2023-04-21 22:21:28] [nasnetalarge] [METRIC] Average Host to Device time: 0.0000 s
+[2023-04-21 22:21:28] [nasnetalarge] [METRIC] Average time: 11.2876 s
+[2023-04-21 22:21:28] [nasnetalarge] [METRIC] CPU Count: 128
+[2023-04-21 22:21:28] [nasnetalarge] [METRIC] CPU Utilization: 0.8
+[2023-04-21 22:21:28] [nasnetalarge] [METRIC] CPU Memory Used: 6259.15234375
+[2023-04-21 22:21:28] [nasnetalarge] [METRIC] CPU Memory Available: 247169.83203125

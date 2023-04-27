@@ -1,0 +1,24 @@
+[2023-04-08 19:00:09] [nasnetalarge] [INFO] Device: cuda
+[2023-04-08 19:00:09] [nasnetalarge] [INFO] Device Type: cuda
+[2023-04-08 19:00:09] [nasnetalarge] [INFO] Trying to load pre-trained nasnetalarge from the timm library
+[2023-04-08 19:00:09] [nasnetalarge] [INFO] Loaded nasnetalarge model successfully
+[2023-04-08 19:00:09] [nasnetalarge] [INFO] Starting inference...
+[2023-04-08 19:00:09] [nasnetalarge] [INFO] Running Inference on randonly generated samples
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] Model Name: nasnetalarge
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] Precision: torch.bfloat16
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] Model parameters: 88753150
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] Average Inference time: 0.0336 s
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] Average Device to Host time: 0.0010 s
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] Average Host to Device time: 0.0000 s
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] Average time: 0.0347 s
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] GPU Utilization: 11.3333
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] GPU Memory Used: 2009.0000 MB
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] GPU Memory Total: 40960.0000 MB
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] GPU Temperature: 31.3333
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] GPU Power Consumption: 79.9900 W
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] GPU Count: 3
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] CUDA Version: 11.7
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] Cudnn Version: 8500
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] CUDA Device Name: NVIDIA A100-PCIE-40GB
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] Max GPU Memory Allocated: 2436.23 MB
+[2023-04-08 19:00:51] [nasnetalarge] [INFO] Max GPU Memory Reserved: 4560.00 MB

@@ -1,0 +1,18 @@
+[2023-04-22 14:27:02] [vgg13] [METRIC] Device: cpu
+[2023-04-22 14:27:02] [vgg13] [METRIC] Device Type: cpu
+[2023-04-22 14:27:02] [vgg13] [INFO] Trying to load pre-trained vgg13 from the timm library
+[2023-04-22 14:27:04] [vgg13] [INFO] Loaded vgg13 model successfully
+[2023-04-22 14:27:04] [vgg13] [INFO] Starting inference...
+[2023-04-22 14:27:04] [vgg13] [INFO] Running Inference on randonly generated samples
+[2023-04-22 16:08:17] [vgg13] [METRIC] Model Name: vgg13
+[2023-04-22 16:08:17] [vgg13] [METRIC] Batch Size: 32
+[2023-04-22 16:08:17] [vgg13] [METRIC] Precision: torch.float64
+[2023-04-22 16:08:17] [vgg13] [METRIC] Model parameters: 133047848
+[2023-04-22 16:08:17] [vgg13] [METRIC] Average Inference time: 11.6659 s
+[2023-04-22 16:08:17] [vgg13] [METRIC] Average Device to Host time: 0.0001 s
+[2023-04-22 16:08:17] [vgg13] [METRIC] Average Host to Device time: 0.0001 s
+[2023-04-22 16:08:17] [vgg13] [METRIC] Average time: 11.6660 s
+[2023-04-22 16:08:17] [vgg13] [METRIC] CPU Count: 12
+[2023-04-22 16:08:17] [vgg13] [METRIC] CPU Utilization: 48.0
+[2023-04-22 16:08:17] [vgg13] [METRIC] CPU Memory Used: 6758.79296875
+[2023-04-22 16:08:17] [vgg13] [METRIC] CPU Memory Available: 9467.5078125

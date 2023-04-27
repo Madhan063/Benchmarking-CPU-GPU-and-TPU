@@ -1,0 +1,18 @@
+[2023-04-24 05:04:38] [xception] [METRIC] Device: cpu
+[2023-04-24 05:04:38] [xception] [METRIC] Device Type: cpu
+[2023-04-24 05:04:38] [xception] [INFO] Trying to load pre-trained xception from the timm library
+[2023-04-24 05:04:38] [xception] [INFO] Loaded xception model successfully
+[2023-04-24 05:04:38] [xception] [INFO] Starting inference...
+[2023-04-24 05:04:38] [xception] [INFO] Running Inference on randonly generated samples
+[2023-04-24 06:38:34] [xception] [METRIC] Model Name: xception
+[2023-04-24 06:38:34] [xception] [METRIC] Batch Size: 32
+[2023-04-24 06:38:34] [xception] [METRIC] Precision: torch.float64
+[2023-04-24 06:38:34] [xception] [METRIC] Model parameters: 22855952
+[2023-04-24 06:38:34] [xception] [METRIC] Average Inference time: 10.8151 s
+[2023-04-24 06:38:34] [xception] [METRIC] Average Device to Host time: 0.0000 s
+[2023-04-24 06:38:34] [xception] [METRIC] Average Host to Device time: 0.0000 s
+[2023-04-24 06:38:34] [xception] [METRIC] Average time: 10.8152 s
+[2023-04-24 06:38:34] [xception] [METRIC] CPU Count: 12
+[2023-04-24 06:38:34] [xception] [METRIC] CPU Utilization: 52.3
+[2023-04-24 06:38:34] [xception] [METRIC] CPU Memory Used: 5237.35546875
+[2023-04-24 06:38:34] [xception] [METRIC] CPU Memory Available: 10988.9453125

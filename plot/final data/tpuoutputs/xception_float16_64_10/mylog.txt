@@ -1,0 +1,7 @@
+Model: xception
+Batch size: 64
+Precision type: float16
+Inference time: 0.10672938823699951
+Host-to-device communication time: 14.546884560585022
+Device-to-host communication time: 0.21300218105316163
+Total time: 14.866616129875183

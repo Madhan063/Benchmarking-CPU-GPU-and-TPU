@@ -1,0 +1,18 @@
+[2023-04-12 06:05:12] [mobilenetv2_100] [METRIC] Device: cpu
+[2023-04-12 06:05:12] [mobilenetv2_100] [METRIC] Device Type: cpu
+[2023-04-12 06:05:12] [mobilenetv2_100] [INFO] Trying to load pre-trained mobilenetv2_100 from the timm library
+[2023-04-12 06:05:12] [mobilenetv2_100] [INFO] Loaded mobilenetv2_100 model successfully
+[2023-04-12 06:05:12] [mobilenetv2_100] [INFO] Starting inference...
+[2023-04-12 06:05:12] [mobilenetv2_100] [INFO] Running Inference on randonly generated samples
+[2023-04-12 06:20:25] [mobilenetv2_100] [METRIC] Model Name: mobilenetv2_100
+[2023-04-12 06:20:25] [mobilenetv2_100] [METRIC] Batch Size: 16
+[2023-04-12 06:20:25] [mobilenetv2_100] [METRIC] Precision: torch.float64
+[2023-04-12 06:20:25] [mobilenetv2_100] [METRIC] Model parameters: 3504872
+[2023-04-12 06:20:25] [mobilenetv2_100] [METRIC] Average Inference time: 0.8550 s
+[2023-04-12 06:20:25] [mobilenetv2_100] [METRIC] Average Device to Host time: 0.0000 s
+[2023-04-12 06:20:25] [mobilenetv2_100] [METRIC] Average Host to Device time: 0.0000 s
+[2023-04-12 06:20:25] [mobilenetv2_100] [METRIC] Average time: 0.8550 s
+[2023-04-12 06:20:25] [mobilenetv2_100] [METRIC] CPU Count: 128
+[2023-04-12 06:20:25] [mobilenetv2_100] [METRIC] CPU Utilization: 0.8
+[2023-04-12 06:20:25] [mobilenetv2_100] [METRIC] CPU Memory Used: 4300.3515625
+[2023-04-12 06:20:25] [mobilenetv2_100] [METRIC] CPU Memory Available: 250169.10546875

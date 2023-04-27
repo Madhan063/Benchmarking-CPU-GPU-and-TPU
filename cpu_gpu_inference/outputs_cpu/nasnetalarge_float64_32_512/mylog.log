@@ -1,0 +1,6 @@
+[2023-04-22 01:36:33] [nasnetalarge] [METRIC] Device: cpu
+[2023-04-22 01:36:33] [nasnetalarge] [METRIC] Device Type: cpu
+[2023-04-22 01:36:33] [nasnetalarge] [INFO] Trying to load pre-trained nasnetalarge from the timm library
+[2023-04-22 01:36:34] [nasnetalarge] [INFO] Loaded nasnetalarge model successfully
+[2023-04-22 01:36:34] [nasnetalarge] [INFO] Starting inference...
+[2023-04-22 01:36:34] [nasnetalarge] [INFO] Running Inference on randonly generated samples

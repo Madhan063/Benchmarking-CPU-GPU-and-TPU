@@ -1,0 +1,7 @@
+Model: efficientnet_b4
+Batch size: 64
+Precision type: float16
+Inference time: 0.15569987297058105
+Host-to-device communication time: 0.602068829536438
+Device-to-host communication time: 0.23001976013183595
+Total time: 0.987788462638855

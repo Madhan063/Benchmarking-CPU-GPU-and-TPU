@@ -1,0 +1,6 @@
+[2023-04-25 14:03:15] [vgg13] [METRIC] Device: cpu
+[2023-04-25 14:03:15] [vgg13] [METRIC] Device Type: cpu
+[2023-04-25 14:03:15] [vgg13] [INFO] Trying to load pre-trained vgg13 from the timm library
+[2023-04-25 14:03:16] [vgg13] [INFO] Loaded vgg13 model successfully
+[2023-04-25 14:03:16] [vgg13] [INFO] Starting inference...
+[2023-04-25 14:03:16] [vgg13] [INFO] Running Inference on randonly generated samples

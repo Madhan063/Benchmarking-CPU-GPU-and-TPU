@@ -1,0 +1,7 @@
+Model: vgg16
+Batch size: 16
+Precision type: bfloat16
+Inference time: 0.01496281623840332
+Host-to-device communication time: 0.5385742425918579
+Device-to-host communication time: 0.05217292308807373
+Total time: 0.6057099819183349

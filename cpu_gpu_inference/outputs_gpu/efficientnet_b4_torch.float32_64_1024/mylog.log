@@ -1,0 +1,24 @@
+[2023-04-08 17:46:36] [efficientnet_b4] [INFO] Device: cuda
+[2023-04-08 17:46:36] [efficientnet_b4] [INFO] Device Type: cuda
+[2023-04-08 17:46:36] [efficientnet_b4] [INFO] Trying to load pre-trained efficientnet_b4 from the timm library
+[2023-04-08 17:46:36] [efficientnet_b4] [INFO] Loaded efficientnet_b4 model successfully
+[2023-04-08 17:46:36] [efficientnet_b4] [INFO] Starting inference...
+[2023-04-08 17:46:36] [efficientnet_b4] [INFO] Running Inference on randonly generated samples
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] Model Name: efficientnet_b4
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] Precision: torch.float32
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] Model parameters: 19341616
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] Average Inference time: 0.0148 s
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] Average Device to Host time: 0.0056 s
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] Average Host to Device time: 0.0244 s
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] Average time: 0.0449 s
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] GPU Utilization: 19.3333
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] GPU Memory Used: 1983.6667 MB
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] GPU Memory Total: 40960.0000 MB
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] GPU Temperature: 35.0000
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] GPU Power Consumption: 48.7333 W
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] GPU Count: 3
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] CUDA Version: 11.7
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] Cudnn Version: 8500
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] CUDA Device Name: NVIDIA A100-PCIE-40GB
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] Max GPU Memory Allocated: 2332.29 MB
+[2023-04-08 17:48:03] [efficientnet_b4] [INFO] Max GPU Memory Reserved: 4484.00 MB

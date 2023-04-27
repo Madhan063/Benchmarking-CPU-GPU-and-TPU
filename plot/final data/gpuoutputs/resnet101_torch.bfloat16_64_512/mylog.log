@@ -1,0 +1,24 @@
+[2023-04-08 23:14:13] [resnet101] [INFO] Device: cuda
+[2023-04-08 23:14:13] [resnet101] [INFO] Device Type: cuda
+[2023-04-08 23:14:13] [resnet101] [INFO] Trying to load pre-trained resnet101 from the timm library
+[2023-04-08 23:14:13] [resnet101] [INFO] Loaded resnet101 model successfully
+[2023-04-08 23:14:13] [resnet101] [INFO] Starting inference...
+[2023-04-08 23:14:13] [resnet101] [INFO] Running Inference on randonly generated samples
+[2023-04-08 23:16:09] [resnet101] [INFO] Model Name: resnet101
+[2023-04-08 23:16:09] [resnet101] [INFO] Precision: torch.bfloat16
+[2023-04-08 23:16:09] [resnet101] [INFO] Model parameters: 44549160
+[2023-04-08 23:16:09] [resnet101] [INFO] Average Inference time: 0.0107 s
+[2023-04-08 23:16:09] [resnet101] [INFO] Average Device to Host time: 0.0039 s
+[2023-04-08 23:16:09] [resnet101] [INFO] Average Host to Device time: 0.0247 s
+[2023-04-08 23:16:09] [resnet101] [INFO] Average time: 0.0393 s
+[2023-04-08 23:16:09] [resnet101] [INFO] GPU Utilization: 6.3333
+[2023-04-08 23:16:09] [resnet101] [INFO] GPU Memory Used: 2695.6667 MB
+[2023-04-08 23:16:09] [resnet101] [INFO] GPU Memory Total: 40960.0000 MB
+[2023-04-08 23:16:09] [resnet101] [INFO] GPU Temperature: 27.3333
+[2023-04-08 23:16:09] [resnet101] [INFO] GPU Power Consumption: 35.9433 W
+[2023-04-08 23:16:09] [resnet101] [INFO] GPU Count: 3
+[2023-04-08 23:16:09] [resnet101] [INFO] CUDA Version: 11.7
+[2023-04-08 23:16:09] [resnet101] [INFO] Cudnn Version: 8500
+[2023-04-08 23:16:09] [resnet101] [INFO] CUDA Device Name: NVIDIA A100-PCIE-40GB
+[2023-04-08 23:16:09] [resnet101] [INFO] Max GPU Memory Allocated: 6262.74 MB
+[2023-04-08 23:16:09] [resnet101] [INFO] Max GPU Memory Reserved: 6620.00 MB

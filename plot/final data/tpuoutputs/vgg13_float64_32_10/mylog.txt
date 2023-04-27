@@ -1,0 +1,7 @@
+Model: vgg13
+Batch size: 32
+Precision type: float64
+Inference time: 0.003688621520996094
+Host-to-device communication time: 0.06672449111938476
+Device-to-host communication time: 0.19560832977294923
+Total time: 0.2660214424133301

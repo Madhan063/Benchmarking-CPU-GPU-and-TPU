@@ -1,0 +1,7 @@
+Model: vgg19
+Batch size: 64
+Precision type: bfloat16
+Inference time: 0.0038724184036254884
+Host-to-device communication time: 1.045560598373413
+Device-to-host communication time: 0.19739692211151122
+Total time: 1.2468299388885498

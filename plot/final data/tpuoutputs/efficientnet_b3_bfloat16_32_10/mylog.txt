@@ -1,0 +1,7 @@
+Model: efficientnet_b3
+Batch size: 32
+Precision type: bfloat16
+Inference time: 0.2146768093109131
+Host-to-device communication time: 18.227956771850586
+Device-to-host communication time: 0.1013657808303833
+Total time: 18.543999361991883

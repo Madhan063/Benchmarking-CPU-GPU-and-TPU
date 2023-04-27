@@ -1,0 +1,24 @@
+[2023-04-09 07:08:33] [xception] [INFO] Device: cuda
+[2023-04-09 07:08:33] [xception] [INFO] Device Type: cuda
+[2023-04-09 07:08:33] [xception] [INFO] Trying to load pre-trained xception from the timm library
+[2023-04-09 07:08:33] [xception] [INFO] Loaded xception model successfully
+[2023-04-09 07:08:33] [xception] [INFO] Starting inference...
+[2023-04-09 07:08:33] [xception] [INFO] Running Inference on randonly generated samples
+[2023-04-09 07:09:40] [xception] [INFO] Model Name: xception
+[2023-04-09 07:09:40] [xception] [INFO] Precision: torch.float64
+[2023-04-09 07:09:40] [xception] [INFO] Model parameters: 22855952
+[2023-04-09 07:09:40] [xception] [INFO] Average Inference time: 0.0047 s
+[2023-04-09 07:09:40] [xception] [INFO] Average Device to Host time: 0.0075 s
+[2023-04-09 07:09:40] [xception] [INFO] Average Host to Device time: 0.0429 s
+[2023-04-09 07:09:40] [xception] [INFO] Average time: 0.0551 s
+[2023-04-09 07:09:40] [xception] [INFO] GPU Utilization: 15.6667
+[2023-04-09 07:09:40] [xception] [INFO] GPU Memory Used: 3741.0000 MB
+[2023-04-09 07:09:40] [xception] [INFO] GPU Memory Total: 40960.0000 MB
+[2023-04-09 07:09:40] [xception] [INFO] GPU Temperature: 35.0000
+[2023-04-09 07:09:40] [xception] [INFO] GPU Power Consumption: 103.6067 W
+[2023-04-09 07:09:40] [xception] [INFO] GPU Count: 3
+[2023-04-09 07:09:40] [xception] [INFO] CUDA Version: 11.7
+[2023-04-09 07:09:40] [xception] [INFO] Cudnn Version: 8500
+[2023-04-09 07:09:40] [xception] [INFO] CUDA Device Name: NVIDIA A100-PCIE-40GB
+[2023-04-09 07:09:40] [xception] [INFO] Max GPU Memory Allocated: 6262.74 MB
+[2023-04-09 07:09:40] [xception] [INFO] Max GPU Memory Reserved: 9756.00 MB

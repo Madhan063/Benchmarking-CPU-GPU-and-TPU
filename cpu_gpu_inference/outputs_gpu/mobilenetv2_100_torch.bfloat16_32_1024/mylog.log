@@ -1,0 +1,24 @@
+[2023-04-08 18:19:01] [mobilenetv2_100] [INFO] Device: cuda
+[2023-04-08 18:19:01] [mobilenetv2_100] [INFO] Device Type: cuda
+[2023-04-08 18:19:01] [mobilenetv2_100] [INFO] Trying to load pre-trained mobilenetv2_100 from the timm library
+[2023-04-08 18:19:01] [mobilenetv2_100] [INFO] Loaded mobilenetv2_100 model successfully
+[2023-04-08 18:19:01] [mobilenetv2_100] [INFO] Starting inference...
+[2023-04-08 18:19:01] [mobilenetv2_100] [INFO] Running Inference on randonly generated samples
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] Model Name: mobilenetv2_100
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] Precision: torch.bfloat16
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] Model parameters: 3504872
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] Average Inference time: 0.0052 s
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] Average Device to Host time: 0.0019 s
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] Average Host to Device time: 0.0023 s
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] Average time: 0.0094 s
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] GPU Utilization: 3.0000
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] GPU Memory Used: 1986.3333 MB
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] GPU Memory Total: 40960.0000 MB
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] GPU Temperature: 26.6667
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] GPU Power Consumption: 35.3133 W
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] GPU Count: 3
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] CUDA Version: 11.7
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] Cudnn Version: 8500
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] CUDA Device Name: NVIDIA A100-PCIE-40GB
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] Max GPU Memory Allocated: 2436.23 MB
+[2023-04-08 18:20:46] [mobilenetv2_100] [INFO] Max GPU Memory Reserved: 4492.00 MB

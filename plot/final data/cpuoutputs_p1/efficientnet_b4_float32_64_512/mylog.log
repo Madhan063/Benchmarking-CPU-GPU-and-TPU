@@ -1,0 +1,18 @@
+[2023-04-19 09:13:25] [efficientnet_b4] [METRIC] Device: cpu
+[2023-04-19 09:13:25] [efficientnet_b4] [METRIC] Device Type: cpu
+[2023-04-19 09:13:25] [efficientnet_b4] [INFO] Trying to load pre-trained efficientnet_b4 from the timm library
+[2023-04-19 09:13:26] [efficientnet_b4] [INFO] Loaded efficientnet_b4 model successfully
+[2023-04-19 09:13:26] [efficientnet_b4] [INFO] Starting inference...
+[2023-04-19 09:13:26] [efficientnet_b4] [INFO] Running Inference on randonly generated samples
+[2023-04-19 10:29:55] [efficientnet_b4] [METRIC] Model Name: efficientnet_b4
+[2023-04-19 10:29:55] [efficientnet_b4] [METRIC] Batch Size: 64
+[2023-04-19 10:29:55] [efficientnet_b4] [METRIC] Precision: torch.float32
+[2023-04-19 10:29:55] [efficientnet_b4] [METRIC] Model parameters: 19341616
+[2023-04-19 10:29:55] [efficientnet_b4] [METRIC] Average Inference time: 8.8505 s
+[2023-04-19 10:29:55] [efficientnet_b4] [METRIC] Average Device to Host time: 0.0000 s
+[2023-04-19 10:29:55] [efficientnet_b4] [METRIC] Average Host to Device time: 0.0000 s
+[2023-04-19 10:29:55] [efficientnet_b4] [METRIC] Average time: 8.8505 s
+[2023-04-19 10:29:55] [efficientnet_b4] [METRIC] CPU Count: 12
+[2023-04-19 10:29:55] [efficientnet_b4] [METRIC] CPU Utilization: 55.4
+[2023-04-19 10:29:55] [efficientnet_b4] [METRIC] CPU Memory Used: 7679.69921875
+[2023-04-19 10:29:55] [efficientnet_b4] [METRIC] CPU Memory Available: 8546.6015625

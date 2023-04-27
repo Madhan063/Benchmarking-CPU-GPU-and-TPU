@@ -1,0 +1,24 @@
+[2023-04-09 01:19:41] [vgg11] [INFO] Device: cuda
+[2023-04-09 01:19:41] [vgg11] [INFO] Device Type: cuda
+[2023-04-09 01:19:41] [vgg11] [INFO] Trying to load pre-trained vgg11 from the timm library
+[2023-04-09 01:19:43] [vgg11] [INFO] Loaded vgg11 model successfully
+[2023-04-09 01:19:43] [vgg11] [INFO] Starting inference...
+[2023-04-09 01:19:43] [vgg11] [INFO] Running Inference on randonly generated samples
+[2023-04-09 01:20:00] [vgg11] [INFO] Model Name: vgg11
+[2023-04-09 01:20:00] [vgg11] [INFO] Precision: torch.float32
+[2023-04-09 01:20:00] [vgg11] [INFO] Model parameters: 132863336
+[2023-04-09 01:20:00] [vgg11] [INFO] Average Inference time: 0.0008 s
+[2023-04-09 01:20:00] [vgg11] [INFO] Average Device to Host time: 0.0019 s
+[2023-04-09 01:20:00] [vgg11] [INFO] Average Host to Device time: 0.0051 s
+[2023-04-09 01:20:00] [vgg11] [INFO] Average time: 0.0078 s
+[2023-04-09 01:20:00] [vgg11] [INFO] GPU Utilization: 13.3333
+[2023-04-09 01:20:00] [vgg11] [INFO] GPU Memory Used: 2695.6667 MB
+[2023-04-09 01:20:00] [vgg11] [INFO] GPU Memory Total: 40960.0000 MB
+[2023-04-09 01:20:00] [vgg11] [INFO] GPU Temperature: 30.3333
+[2023-04-09 01:20:00] [vgg11] [INFO] GPU Power Consumption: 81.1733 W
+[2023-04-09 01:20:00] [vgg11] [INFO] GPU Count: 3
+[2023-04-09 01:20:00] [vgg11] [INFO] CUDA Version: 11.7
+[2023-04-09 01:20:00] [vgg11] [INFO] Cudnn Version: 8500
+[2023-04-09 01:20:00] [vgg11] [INFO] CUDA Device Name: NVIDIA A100-PCIE-40GB
+[2023-04-09 01:20:00] [vgg11] [INFO] Max GPU Memory Allocated: 6262.74 MB
+[2023-04-09 01:20:00] [vgg11] [INFO] Max GPU Memory Reserved: 6620.00 MB

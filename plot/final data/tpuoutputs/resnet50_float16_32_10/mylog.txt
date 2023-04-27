@@ -1,0 +1,7 @@
+Model: resnet50
+Batch size: 32
+Precision type: float16
+Inference time: 0.12022640705108642
+Host-to-device communication time: 11.514990949630738
+Device-to-host communication time: 0.10815215110778809
+Total time: 11.743369507789613

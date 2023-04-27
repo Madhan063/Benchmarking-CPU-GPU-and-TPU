@@ -1,0 +1,7 @@
+Model: resnet152
+Batch size: 64
+Precision type: float16
+Inference time: 0.37211246490478517
+Host-to-device communication time: 17.989515471458436
+Device-to-host communication time: 0.23421049118041992
+Total time: 18.59583842754364

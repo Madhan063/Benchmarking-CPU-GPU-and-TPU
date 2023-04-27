@@ -1,0 +1,6 @@
+[2023-04-14 15:24:42] [resnet101] [METRIC] Device: cpu
+[2023-04-14 15:24:42] [resnet101] [METRIC] Device Type: cpu
+[2023-04-14 15:24:42] [resnet101] [INFO] Trying to load pre-trained resnet101 from the timm library
+[2023-04-14 15:24:42] [resnet101] [INFO] Loaded resnet101 model successfully
+[2023-04-14 15:24:42] [resnet101] [INFO] Starting inference...
+[2023-04-14 15:24:42] [resnet101] [INFO] Running Inference on randonly generated samples

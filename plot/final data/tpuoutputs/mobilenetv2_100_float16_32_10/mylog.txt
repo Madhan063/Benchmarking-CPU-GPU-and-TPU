@@ -1,0 +1,7 @@
+Model: mobilenetv2_100
+Batch size: 32
+Precision type: float16
+Inference time: 0.09695723056793212
+Host-to-device communication time: 10.491741609573364
+Device-to-host communication time: 0.11382548809051514
+Total time: 10.702524328231812

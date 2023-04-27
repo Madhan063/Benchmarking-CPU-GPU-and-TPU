@@ -1,0 +1,18 @@
+[2023-04-14 11:31:03] [resnet101] [METRIC] Device: cpu
+[2023-04-14 11:31:03] [resnet101] [METRIC] Device Type: cpu
+[2023-04-14 11:31:03] [resnet101] [INFO] Trying to load pre-trained resnet101 from the timm library
+[2023-04-14 11:31:03] [resnet101] [INFO] Loaded resnet101 model successfully
+[2023-04-14 11:31:03] [resnet101] [INFO] Starting inference...
+[2023-04-14 11:31:03] [resnet101] [INFO] Running Inference on randonly generated samples
+[2023-04-14 13:15:52] [resnet101] [METRIC] Model Name: resnet101
+[2023-04-14 13:15:52] [resnet101] [METRIC] Batch Size: 64
+[2023-04-14 13:15:52] [resnet101] [METRIC] Precision: torch.float32
+[2023-04-14 13:15:52] [resnet101] [METRIC] Model parameters: 44549160
+[2023-04-14 13:15:52] [resnet101] [METRIC] Average Inference time: 12.2433 s
+[2023-04-14 13:15:52] [resnet101] [METRIC] Average Device to Host time: 0.0000 s
+[2023-04-14 13:15:52] [resnet101] [METRIC] Average Host to Device time: 0.0000 s
+[2023-04-14 13:15:52] [resnet101] [METRIC] Average time: 12.2433 s
+[2023-04-14 13:15:52] [resnet101] [METRIC] CPU Count: 128
+[2023-04-14 13:15:52] [resnet101] [METRIC] CPU Utilization: 0.8
+[2023-04-14 13:15:52] [resnet101] [METRIC] CPU Memory Used: 5392.38671875
+[2023-04-14 13:15:52] [resnet101] [METRIC] CPU Memory Available: 248102.67578125

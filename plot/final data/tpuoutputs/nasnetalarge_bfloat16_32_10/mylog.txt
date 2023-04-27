@@ -1,0 +1,7 @@
+Model: nasnetalarge
+Batch size: 32
+Precision type: bfloat16
+Inference time: 0.5298306226730347
+Host-to-device communication time: 40.62840321063995
+Device-to-host communication time: 0.10124645233154297
+Total time: 41.25948028564453
