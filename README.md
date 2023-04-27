@@ -16,4 +16,4 @@ Our goal is to perform inference on pre-trained ImageNet models using CPU, GPU, 
 | Number of Inference Steps | 512,1024             | 512,1024                                    | 32                                          |
 | Batch Size             | 16,32,64                | 16,32,64                                    | 16,32,64                                    |
 
-![Methodology Image](./plot/Final Plots/other plots/diagram_metrics.png)
+![Methodology Image](./plot/other_plots/diagram_metrics.png)
